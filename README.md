@@ -579,8 +579,5 @@ If post already liked by user. Access this route to unlike this `id` post
 
 
 
-## 🔗 Links
-[![facebook](https://img.shields.io/badge/facebook-Code?style=for-the-badge&logo=facebook&logoColor=white&color=blue)](https://www.facebook.com/profile.php?id=100034947971586)
 
-[![github](https://img.shields.io/badge/github-Code?style=for-the-badge&logo=github&logoColor=white&color=black)](https://github.com/vmdt)
 
